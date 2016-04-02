@@ -1,4 +1,4 @@
-# Selenium_Weather_Results
+# Selenium Weather Results
 A small program to fetch a brief weather forecast from Weather.com using Selenium
 
 **Maven dependencies:**
